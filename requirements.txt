@@ -5,3 +5,4 @@ pandas
 matplotlib
 ultralytics
 streamlit
+Pillow
