@@ -1,0 +1,23 @@
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# YOLO model weights
+*.pt
+
+# Dataset images and files
+data/
+
+# Temporary files
+.DS_Store
+Thumbs.db
