@@ -6,3 +6,4 @@ matplotlib
 ultralytics
 streamlit
 Pillow
+lap
